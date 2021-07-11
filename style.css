@@ -1,0 +1,124 @@
+div.head{
+    background-color:dodgerblue;
+    border-radius: 8px;
+    height:100px;
+    width: 870;
+}
+.head2{
+    text-decoration: none;
+    color:white;
+    font-size: 28px;
+    text-align: center;
+}
+.head3{
+        text-decoration: none;
+    color:white;
+     text-align: center;
+    font-size: 12px;
+}
+.mid{
+    display: inline-block;
+    height: 700px;
+    width: 600px;
+    background-color: azure;
+        border-radius: 8px;
+}
+.mid2{
+    font-size: 18px;
+    text-decoration: none;
+    color:dodgerblue;
+}
+.midspam{
+    text-decoration: none;
+    color:dodgerblue;
+}
+.mid4{
+ height: 50px;
+    width: 600px;
+    background-color:dodgerblue;
+}
+.mid5{
+text-decoration: none;
+    color:white;
+    text-align: left;
+}
+.midspam1{
+    color:darkgray;
+    font-size: 10px;
+}
+.midspam2{
+    color:dodgerblue;
+        font-size: 10px;
+}
+.i{
+    padding-top: 10px;
+    padding-left: 05px;
+    float: left;
+    height: 100px;
+    width: 120px;
+}
+.right{
+    display: inline-block;
+    height:850px;
+    width: 260px;
+    background-color:azure;
+    border-radius: 10px;
+}
+ul{
+	margin:0px;
+    padding: 0px;
+	padding-top:px;
+	list-style:none;
+    padding-left: 10px;
+}
+ul li{
+	float:;
+	width:230px;
+	height:20px;
+	background-color:whitesmoke;
+	opacity:.8;
+	line-height:20px;
+	text-align:left;
+    padding-left: 5px;
+	font-size:13px;
+	margin-top:7px;
+
+}
+ul li a{
+	text-decoration:none;
+	color:dodgerblue;
+	display:block;
+    padding-left: 5px;
+}
+ul li a:hover{
+	background-color:red;
+    padding-left: 5px;
+}
+.r2{
+    width:240px;
+    height:130px;
+    background-color:rgba(255,255,255,0.9);
+    border:2px dashed dodgerblue;
+    background-clip:border-box;
+     
+}
+.r3{
+    width:240px;
+    height:190px;
+    background-color:rgba(255,255,255,0.9);
+    border: 2px dashed dodgerblue;
+    background-clip:border-box;
+        padding-left: 10px;
+}
+img.image{
+    height: 50px;
+    padding-bottom: 5px;
+}
+.r4{
+    width:240px;
+    height:140px;
+    background-color:rgba(255,255,255,0.9);
+    border:2px dashed dodgerblue;
+    background-clip:border-box;
+        padding-left: 10px;
+}
